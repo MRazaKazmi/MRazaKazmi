@@ -4,7 +4,7 @@
 
 - Additionally, I have significant experience contributing to all phases of the data development life cycle and strong knowledge of big data and cloud computing technologies.
 
-- I’m currently learning DevOps Engineering
+- I’m currently learning DevOps Engineering.
 
 - Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
 
