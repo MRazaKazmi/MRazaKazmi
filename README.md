@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Raza Kazmi and am a Data Engineer, based in Toronto, Canada.
 
--  I’m passionate about architecting and building reliable and performant data platforms, which enable different business stakeholders to make sense of the data chaos which exists within the business. 
+-  I’m passionate about architecting and building reliable, performant and maintainable data platforms, which enable different business stakeholders to make sense of the data chaos which exists within the business. 
 
 - I’m currently learning DevOps Engineering.
 
