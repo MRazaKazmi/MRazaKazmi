@@ -1,7 +1,9 @@
 
 - 👋 Hi there, I’m Raza Kazmi and am a Data Engineer, based in Toronto, Canada
 
--  I'm passionate about building data products and have 2 years of programming experience.
+-  I'm passionate about building reliable, scalable and maintainable data platforms that enabled different business stakeholders to make sense of the data which exists chaotically within their business.
+
+- I've significant experience contributing to all phases in the data development lifecycle as well as strong knowledge of Big Data and Cloud Computing technologies.
 
 - Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
 <!---
