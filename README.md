@@ -1,7 +1,7 @@
 
 - 👋 Hi there, I’m Raza Kazmi and am a Data Engineer.
 
--  I'm passionate about building reliable, scalable and maintainable data platforms that enabled different business stakeholders to make sense of the data which exists chaotically within their business.
+-  I'm passionate about building reliable, scalable and maintainable data platforms that enabled different business stakeholders to make sense of their unusable, messy and chaotic data.
 
 - I've significant experience contributing to all phases in the data development lifecycle as well as strong knowledge of Big Data and Cloud Computing technologies.
 
