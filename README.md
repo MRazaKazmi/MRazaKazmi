@@ -1,5 +1,5 @@
 
-- 👋 Hi there, I’m Raza Kazmi and am a passionate Software Engineer.
+- 👋 Hi there, I’m Raza Kazmi and am a Software Engineer.
 
 -  I'm passionate about building software products which delight their users and improve their lives. 
 
