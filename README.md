@@ -3,7 +3,7 @@
 
 - I'm passionate about building software products which delight their users. 
 
-- I've significant experience contributing to all phases in the software development lifecycle as well as strong knowledge of Cloud Computing technologies.
+- I've significant experience contributing to different phases in the software development lifecycle as well as strong knowledge of Cloud Computing technologies.
 
 - Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
 <!---
