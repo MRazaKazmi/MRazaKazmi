@@ -1,7 +1,5 @@
 
-- Hi there, I’m Raza Kazmi and am a Software Engineer.
-
-- I'm passionate about building software products which delight their users. 
+- Hi there, I’m Raza Kazmi and am a Software Engineer passionate about building software products which delight their users. 
 
 - I've significant experience contributing to different phases in the software development lifecycle as well as strong knowledge of Cloud Computing technologies.
 
