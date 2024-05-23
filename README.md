@@ -1,7 +1,7 @@
 
 - Hi there, I’m Raza Kazmi and am a Software Engineer passionate about building software products which delight their users. 
 
-- I've significant experience contributing to different phases in the software development lifecycle and strong knowledge of Cloud Computing.
+- I've significant experience contributing to different phases of the software development lifecycle and strong knowledge of Cloud Computing.
 
 - Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
 <!---
