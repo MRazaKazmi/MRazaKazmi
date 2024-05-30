@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Raza Kazmi</h1>
 
 ## About Me
-I am a software engineer with 2+ years of professional experience and am passionate about building innovative software products which delight their users. I've contributed to different phases of the software development lifecycle and have strong knowledge of Cloud Computing technologies. 
+I am a software engineer with 2+ years of professional experience and am passionate about building innovative software products which delight their users. I've contributed to different phases of the software development lifecycle and have strong knowledge of Cloud Computing. 
 
 Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
 
