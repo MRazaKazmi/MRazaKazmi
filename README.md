@@ -3,7 +3,13 @@
 ## About Me
 I am an Oxford University engineering graduate and a software engineer with 2+ years of professional programming experience and I am passionate about building innovative software products which delight their users. 
 
-I've contributed to different phases of the software development lifecycle and have strong knowledge of Cloud Computing technologies. 
+In my previous roles, I have successfully:
+
+- Developed and deployed robust applications using various programming languages and frameworks.
+- Led teams through agile development cycles, ensuring timely delivery of high-quality software.
+- Implemented scalable solutions on cloud platforms such as AWS, Azure, and Google Cloud.
+- Troubleshot and resolved complex technical issues, enhancing system performance and reliability.
+- Collaborated with cross-functional teams to align technical solutions with business goals.
 
 Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
 
