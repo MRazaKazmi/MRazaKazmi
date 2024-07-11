@@ -7,8 +7,7 @@ In my previous roles, I have successfully:
 
 - Developed and deployed robust applications using various programming languages and frameworks.
 - Led teams through agile development cycles, ensuring timely delivery of high-quality software.
-- Implemented scalable solutions on cloud platforms such as AWS, Azure, and Google Cloud.
-- Troubleshot and resolved complex technical issues, enhancing system performance and reliability.
+- Implemented scalable solutions on cloud platforms such as AWS and Azure.
 - Collaborated with cross-functional teams to align technical solutions with business goals.
 
 Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
