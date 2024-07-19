@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Raza Kazmi</h1>
 
 ## About Me
-I am an Oxford University engineering graduate and a software engineer with 2+ years of professional programming experience and I am passionate about building innovative software products which delight their users. 
+I am an Oxford University engineering graduate and a software engineer with 2+ years of professional programming experience and I am passionate about building innovative software products that delight. 
 
 In my previous roles, I have successfully:
 
