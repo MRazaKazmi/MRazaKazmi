@@ -4,6 +4,6 @@ I'm a Data Engineer, passionate about building reliable, maintainable and scalab
 
 I've significant experience contributing to all phases in the data development lifecycle and strong knowledge of Big Data and Cloud Computing technologies. 
 
-I am also a Microsoft Certified Data Engineer Associate.
+I am also a Microsoft Certified Data Engineer Associate and an AWS Certified Data Engineer Associate.
 
 Feel free to connect with me on LinkedIn : https://www.linkedin.com/in/mrazakazmi/
